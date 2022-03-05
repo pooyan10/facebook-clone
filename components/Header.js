@@ -23,6 +23,7 @@ function Header() {
 
       <div className="flex  justify-start items-center">
         <Image
+          alt=""
           src="https://worldsummit.ai/wp-content/uploads/sites/4/2021/07/Facebook-logo-650x406.png"
           height={40}
           width={65}
